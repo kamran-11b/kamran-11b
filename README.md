@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Md Kamran Ahmad
 #### Competitive Programmer and Full Stack Developer
-I love competitive programming and solve real-world problems. I have a passion for learning and sharing my knowledge with others.
+I love competitive programming and solve real-world problems.I have a passion for learning and sharing my knowledge with others.
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning JavaScript 
